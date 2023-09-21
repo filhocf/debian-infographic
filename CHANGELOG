@@ -1,3 +1,8 @@
+* version 3.0.1
+   - Small verifications;
+   - Migration to an exclusive repository;
+   - Fix issue #13 using Inkscape 1.3.x;
+
 * version 3.0
    - Added DebConf15;
    - Added DebConf16;
